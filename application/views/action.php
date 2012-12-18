@@ -149,7 +149,41 @@
             <div class="clear"></div>
             <div class="ajay_actionbox">
                     <div class="ajay_checkbox02"><input name="" type="checkbox" value="" /></div>
-                	</div><!--ajay_actionbox ends-->
+                    
+                    <div class="ajay_actionbox_text">
+                    Next Action:<br />
+                    <span>belated thank you for referral - with gift</span>
+                    </div><!--ajay_actionbox_text ends-->
+                    <div class="clear"></div>
+                    <div class="ajay_dateimage"><a href="#"><img src="./images/site_images/date02.png" width="61" height="17" alt="." /></a></div>
+       	  </div><!--ajay_actionbox ends-->
+          <div class="clear"></div>
+          
+          <div class="ajay_commentbox">
+          	<p>Add a note about John</p>
+            <textarea name="" cols="" rows="" class="ajay_size01"></textarea>
+            <div class="clear"></div>
+            <a href="#">Show options</a> (attatch files, cases, deals, or change permissions)
+            <input type="button" value="Add this note" class="ajay_addbtn" />
+          </div><!--ajay_commentbox ends-->
+          
+          <div class="clear"></div>
+          
+          <div class="ajay_center02">
+          	<select name="" class="ajay_expertview"><option>Expert view</option></select>
+            <div class="ajay_subscribe">
+            	<a href="#">Subscribe to daily digest emails</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">Rss Feed</a>
+            </div>
+            
+            <div class="clear"></div>
+            
+            <div class="ajay_testimonial">
+            	<div class="ajay_tick"><img src="./images/site_images/tick.jpg" width="16" height="17" alt="." /></div>
+              <span>Call tomorrow by Zach D. on Mon Dec 17</span>
+                <div class="ajay_delete"><a href="#"><img src="./images/site_images/delete.jpg" width="9" height="10" alt="." /></a></div>
+            </div><!--testimonial ends-->
+          </div><!--ajay_center02 ends-->
+          
         </div><!--ajay_center_moduleinner ends-->
     </div><!--ajay_center_module ends-->
     
