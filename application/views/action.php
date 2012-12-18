@@ -1,13 +1,3 @@
-<!--<table>
-	<tr>
-		<td>
-			<img src=http://growthcrm.com/wp-content/uploads/2012/12/action.png>
-		</td>
-		<td>
-			<img src="http://growthcrm.com/wp-content/uploads/2012/12/details1.png">
-		</td>
-	</tr>
-</table>-->
 <link href="./css/ajay_style.css" rel="stylesheet" type="text/css" />
 
 <div id="ajay_wrapper">
