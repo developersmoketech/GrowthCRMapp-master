@@ -155,7 +155,7 @@
                     <span>belated thank you for referral - with gift</span>
                     </div><!--ajay_actionbox_text ends-->
                     <div class="clear"></div>
-                    <div class="ajay_dateimage"><a href="#"><img src="./images/site_images/date02.png" width="61" height="17" alt="." /></a></div>
+                    <div class="ajay_dateimage">Nov 22</div>
        	  </div><!--ajay_actionbox ends-->
           <div class="clear"></div>
           
@@ -186,5 +186,31 @@
           
         </div><!--ajay_center_moduleinner ends-->
     </div><!--ajay_center_module ends-->
+
+	<div id="ajay_right_module">
+    	<h1>Edit this person</h1>
+        <div class="clear"></div>
+    	<div class="ajay_contactinfo">Contact Information   <a href="#">Vcard</a><a href="#">Zoom</a>
+        </div><!--ajay_contactinfo ends-->
+        
+        <div class="ajay_contactinfo01">
+        	<strong><a href="#">john@facebook.com</a> <span>work</span></strong><br />
+            <strong>208-875-2287<span>work</span></strong>
+            <br /> 
+            <strong><a href="#">www.johnsmith.com</a> <span>work</span></strong>
+            
+            <br /><br /> 
+            
+            <strong>
+            <span>work</span>
+            <pre>450 N 24th st
+Spokane, wa 99812
+United States</pre>
+</strong>
+			<br />
+            <strong><span>Background</span><br /> John is good friend.</strong>  
+        </div><!--ajay_contactinfo01 ends-->
+        
+    </div><!--ajay_right_module ends-->
     
 </div>
